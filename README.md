@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Upcoming Developer| Software Engineer | Web3 & Blockchain Developer | Visionary | Pioneer of "Tech Savvy of Africa" | Building at TCG |
+**Upcoming Developer| Software Engineer | Web3 & Blockchain Developer | Visionary | Pioneer of "Tech Savvy of Africa" | Building at TCG |**
 
 - 🔭 I'm Currently on a Journey to become a world class Software Engineer and Developer.
 - 🌱 I'm Currently learning Web Development and its frameworks.
-- 📫 How to reach me: oluwakejimijames@gmail.com
+- 📫 How to reach me oluwakejimijames@gmail.com
 - ⚡ Fun fact, In my free time, I'm a gamer.
 - 😄 Pronouns: He.
