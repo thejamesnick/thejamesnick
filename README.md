@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Upcoming Developer| Software Engineer | Web3 & Blockchain Developer | Visionary | Pioneer of "Tech Savvy of Africa" | Building at TCG | </h3>
 
 
-- 🔭 I'm Currently on a Journey to become a world class Software Engineer and Developer.
+- 🔭 I'm Currently on a Journey to **become a world class Software Engineer and Developer.**
   
 - 🌱 I'm Currently learning **Web Development and its frameworks.**
 
