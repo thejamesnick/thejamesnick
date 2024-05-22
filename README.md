@@ -16,6 +16,10 @@
   
 - 📄 Know about my experiences [**Resume here**]
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@thejamesnick/30-nites-of-code)  
+  ![@thejamesnick #30NitesOfCode](https://www.codedex.io/api/petStatus?user=thejamesnick)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/notnicksol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gbhatia30" height="30" width="40" /></a>
