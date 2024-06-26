@@ -12,7 +12,7 @@
   
 - ⚡ Fun fact **In my free time, I'm a gamer.**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://twitter.com/notnicksol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gbhatia30" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thejamesnick/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gbhatia30" height="30" width="40" /></a>
