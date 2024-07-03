@@ -1,5 +1,6 @@
-![Nicholas James](https://github.com/thejamesnick/thejamesnick/assets/86798183/164d8c7a-91d7-4b96-bbb8-e00c2edfb977)
 <h1 align="center">Hi there 👋, I'm Nicholas James.</h1>
+
+![Nicholas James](https://github.com/thejamesnick/thejamesnick/assets/86798183/164d8c7a-91d7-4b96-bbb8-e00c2edfb977)
 
 <h3 align="center"> Upcoming Developer | Software Engineer | Web3 & Blockchain Developer | Visionary | Pioneer of "Tech Savvy of Africa" | Building at TCG </h3>
 
