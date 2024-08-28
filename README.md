@@ -2,7 +2,7 @@
 
 ![LinkedIn](https://github.com/user-attachments/assets/7aa38e17-3a1b-491f-822c-6f06891446e5)
 
-<h3 align="center"> Upcoming Developer | Software Engineer | Web3 & Blockchain Developer | Visionary | Pioneer of "Tech Savvy of Africa" | Building at TCG </h3>
+<h3 align="center"> Tech Savvy Pioneer | Blockchain Dev Enthusiast | Software Engineer in the making | Shaping the Future out here. </h3>
 
 
 - 🔭 I'm Currently on a Journey to **become a world class Software Engineer and Developer.**
