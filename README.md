@@ -17,15 +17,6 @@
 - 🎮 Gamer in my free time
 - 📫 Reach me at **oluwakejimijames@gmail.com**
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejamesnick&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thejamesnick&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### 🔥 30 Nites Of Code
 
