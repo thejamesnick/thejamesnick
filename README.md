@@ -12,7 +12,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently on a journey to become a world-class Software Engineer and Developer
 - 🌱 Versatile engineer building across the full stack
 - 🎮 Gamer in my free time
 - 📫 Reach me at **oluwakejimijames@gmail.com**
